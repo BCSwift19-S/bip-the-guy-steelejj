@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
 // actions
-    
+    //
     func animateImage() {
         let bounds = self.imageToPunch.bounds = self.imageToPunch.bounds
         
